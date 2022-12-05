@@ -1,0 +1,2 @@
+# DELL-G3-3500-EFI-HACKINTOSH
+Dell G3 3500 100% working
